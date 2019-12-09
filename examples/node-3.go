@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/arriqaaq/chord"
-	"github.com/arriqaaq/chord/models"
+	"chord"
+	"chord/models"
 	"log"
 	"math/big"
 	"os"

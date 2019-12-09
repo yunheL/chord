@@ -11,8 +11,8 @@ https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf
 package main
 
 import (
-	"github.com/arriqaaq/chord"
-	"github.com/arriqaaq/chord/internal"
+	"chord"
+	"chord/models"
 	"log"
 	"os"
 	"os/signal"

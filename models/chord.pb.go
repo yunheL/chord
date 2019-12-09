@@ -3,7 +3,7 @@
 
 package models
 
-import proto "github.com/golang/protobuf/proto"
+import proto "protobuf/proto"
 import fmt "fmt"
 import math "math"
 

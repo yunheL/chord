@@ -2,7 +2,7 @@ package chord
 
 import (
 	// "errors"
-	"github.com/arriqaaq/chord/models"
+	"chord/models"
 	"hash"
 	// "math/big"
 )
